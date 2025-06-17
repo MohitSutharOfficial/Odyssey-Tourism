@@ -1,69 +1,137 @@
-# Welcome to my college project
+# Odyssey: Business Tourism Web App
 
-**Busy Tourism Web App <a href="https://witty-island-086886500.6.azurestaticapps.net/">BusinessOdyssey</a>**
-Busy Tourism Web App is a college project designed to provide real-time location directions to your selected destinations. It leverages modern web development technologies to deliver an efficient and user-friendly tourism experience. The application is accessible online and offers a seamless way to explore and navigate through various tourist destinations.
+**Live Demo:** [Odyssey on Azure](https://gray-hill-0950dc200.6.azurestaticapps.net/)
 
-**Features:**
-**Real-Time Location Tracking:** Navigate and get directions to your selected places effortlessly.
+## Overview
 
-**Modern Tech Stack:**.<br>
-**Vite:** A fast development server and build tool.<br>
-**TypeScript:** Ensures robust and scalable code.<br>
-**React:** Provides a dynamic and responsive user interface.<br>
-**shadcn-ui:** For streamlined and consistent UI components.<br>
-**Tailwind CSS:** Enables rapid and modern styling.<br>
-**version control & ci/cd:** Git,Github Action <br>
-**map:** Leaflet | © OpenStreetMap contributors <br>
-**Deployment:** Azure Cloud <br>
+Odyssey is a modern tourism web application designed as a college project to help users explore, plan, and navigate tourist destinations with real-time directions and a beautiful, responsive interface. Built with a robust tech stack and deployed on Azure, Odyssey delivers a seamless and interactive experience for travelers.
 
-**Multiple Development Options:**<br>
-Work locally using your favorite IDE with Node.js and npm.
-Edit files directly via GitHub.
-Utilize GitHub Codespaces for an integrated development environment.
+---
 
-# live demo
+## Features
 
-<h3>Link:- <a href="https://witty-island-086886500.6.azurestaticapps.net/">BusinessOdyssey</a></h3>
+- **Real-Time Location Tracking:** Effortlessly navigate and get directions to your selected places.
+- **Interactive Map:** Powered by Leaflet and OpenStreetMap for accurate, open-source mapping.
+- **Itinerary Planning:** Add, view, and manage your travel plans.
+- **Place Search & Details:** Search for destinations and view detailed information.
+- **Responsive UI:** Mobile-friendly and desktop-optimized layouts.
+- **Modern UI Components:** Consistent, accessible, and customizable interface using shadcn-ui and Tailwind CSS.
+- **Persistent Storage:** Save your itinerary and preferences locally.
+- **Fast Performance:** Instant feedback and smooth navigation with Vite and React.
+- **CI/CD & Version Control:** Automated deployments and code management with GitHub Actions and Git.
+- **Cloud Deployment:** Hosted on Azure Static Web Apps for global availability and scalability.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Tech Stack
 
-**Use your preferred IDE**
+- **Frontend:**
+  - [React](https://react.dev/) (with TypeScript)
+  - [Vite](https://vitejs.dev/) (build tool)
+  - [shadcn-ui](https://ui.shadcn.com/) (UI components)
+  - [Tailwind CSS](https://tailwindcss.com/) (utility-first CSS)
+  - [Leaflet](https://leafletjs.com/) & [OpenStreetMap](https://www.openstreetmap.org/) (maps & directions)
+  - [React Router](https://reactrouter.com/) (routing)
+  - [Zod](https://zod.dev/) (validation)
+  - [React Hook Form](https://react-hook-form.com/) (forms)
+  - [Recharts](https://recharts.org/) (charts)
+- **State & Data:**
+  - React Context API
+  - Local Storage
+- **DevOps & Deployment:**
+  - [Git](https://git-scm.com/) & [GitHub](https://github.com/)
+  - [GitHub Actions](https://github.com/features/actions) (CI/CD)
+  - [Azure Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) (hosting)
+- **Other Tools:**
+  - [ESLint](https://eslint.org/) (linting)
+  - [TypeScript](https://www.typescriptlang.org/) (type safety)
+  - [PostCSS](https://postcss.org/)
+  - [Node.js](https://nodejs.org/) & [npm](https://www.npmjs.com/)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Project Structure
 
-Follow these steps:
+```
+/ (root)
+├── public/                # Static assets
+├── src/                   # Source code
+│   ├── components/        # Reusable UI components
+│   ├── context/           # React context providers
+│   ├── hooks/             # Custom React hooks
+│   ├── lib/               # Utility functions
+│   ├── pages/             # Main app pages (Home, Explore, Itinerary, etc.)
+│   ├── services/          # API and local storage logic
+│   ├── App.tsx            # Main app component
+│   └── main.tsx           # App entry point
+├── .github/workflows/     # CI/CD workflows
+├── package.json           # Project metadata and scripts
+├── vite.config.ts         # Vite configuration
+├── tailwind.config.ts     # Tailwind CSS configuration
+└── ...                    # Other config and documentation files
+```
+
+---
+
+## Getting Started
+
+### 1. Clone the Repository
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/MohitSutharOfficial/Odyssey-Tourism.git
-
-# Step 2: Navigate to the project directory.
 cd Odyssey-Tourism
-# Step 3: Install the necessary dependencies.
-npm i
+```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 2. Install Dependencies
+
+```sh
+npm install
+```
+
+### 3. Start the Development Server
+
+```sh
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### 4. Build for Production
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```sh
+npm run build
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Development Options
 
-## I want to use a custom domain - is that possible?
+- **Local Development:** Use your favorite IDE with Node.js and npm.
+- **GitHub:** Edit files directly in the GitHub web interface.
+- **GitHub Codespaces:** Launch a cloud-based dev environment instantly.
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details:
+---
+
+## Deployment
+
+- **CI/CD:** Automated with GitHub Actions.
+- **Hosting:** Deployed to Azure Static Web Apps for fast, global delivery.
+- **Custom Domain:** Not supported yet. For custom domains, consider Netlify or similar platforms.
+
+---
+
+## Credits
+
+- **Maps:** [Leaflet](https://leafletjs.com/) & [OpenStreetMap](https://www.openstreetmap.org/)
+- **UI:** [shadcn-ui](https://ui.shadcn.com/), [Tailwind CSS](https://tailwindcss.com/)
+- **Cloud:** [Microsoft Azure](https://azure.microsoft.com/)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Contact
+
+For questions or contributions, open an issue or pull request on [GitHub](https://github.com/MohitSutharOfficial/Odyssey-Tourism).
