@@ -1,6 +1,6 @@
 # Welcome to my college project
 
-**Busy Tourism Web App <a href="https://gray-hill-0950dc200.6.azurestaticapps.net/">Odyssy</a>**
+**Busy Tourism Web App <a href="https://gray-hill-0950dc200.6.azurestaticapps.net/">Odyssey</a>**
 Busy Tourism Web App is a college project designed to provide real-time location directions to your selected destinations. It leverages modern web development technologies to deliver an efficient and user-friendly tourism experience. The application is accessible online and offers a seamless way to explore and navigate through various tourist destinations.
 
 **Features:**
@@ -13,7 +13,9 @@ Busy Tourism Web App is a college project designed to provide real-time location
 **shadcn-ui:** For streamlined and consistent UI components.<br>
 **Tailwind CSS:** Enables rapid and modern styling.<br>
 **version control & ci/cd:** Git,Github Action <br>
+**map:** Leaflet | © OpenStreetMap contributors <br>
 **Deploment:** Azure Cloud <br>
+
 **Multiple Development Options:**<br>
 Work locally using your favorite IDE with Node.js and npm.
 Edit files directly via GitHub.
@@ -37,10 +39,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/MohitSutharOfficial/Odyssy-Tourism.git
+git clone https://github.com/MohitSutharOfficial/Odyssey-Tourism.git
 
 # Step 2: Navigate to the project directory.
-cd Odyssy-Tourism
+cd Odyssey-Tourism
 # Step 3: Install the necessary dependencies.
 npm i
 
