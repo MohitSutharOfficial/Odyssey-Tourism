@@ -1,11 +1,12 @@
-# Welcome to  my  college project
+# Welcome to my college project
+
 **Busy Tourism Web App**
 Busy Tourism Web App is a college project designed to provide real-time location directions to your selected destinations. It leverages modern web development technologies to deliver an efficient and user-friendly tourism experience. The application is accessible online and offers a seamless way to explore and navigate through various tourist destinations.
 
-**Features:**
+**Features:**<br>
 **Real-Time Location Tracking:** Navigate and get directions to your selected places effortlessly.
 
-**Modern Tech Stack:**
+**Modern Tech Stack:**.
 **Vite:** A fast development server and build tool.
 **TypeScript:** Ensures robust and scalable code.
 **React:** Provides a dynamic and responsive user interface.
@@ -15,7 +16,9 @@ Busy Tourism Web App is a college project designed to provide real-time location
 Work locally using your favorite IDE with Node.js and npm.
 Edit files directly via GitHub.
 Utilize GitHub Codespaces for an integrated development environment.
+
 # live demo
+
 Odessey:- https://gray-hill-0950dc200.6.azurestaticapps.net/
 
 ## How can I edit this code?
@@ -24,7 +27,7 @@ There are several ways of editing your application.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. 
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -57,8 +60,6 @@ npm run dev
 - Select the "Codespaces" tab.
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
-
-
 
 ## I want to use a custom domain - is that possible?
 
