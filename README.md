@@ -37,11 +37,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <https://github.com/MohitSutharOfficial/Busy-tourism-webapp.git>
+git clone https://github.com/MohitSutharOfficial/Odyssy-Tourism.git
 
 # Step 2: Navigate to the project directory.
-cd <busy-tourism-webapp>
-
+cd Odyssy-Tourism
 # Step 3: Install the necessary dependencies.
 npm i
 
