@@ -14,7 +14,7 @@ Busy Tourism Web App is a college project designed to provide real-time location
 **Tailwind CSS:** Enables rapid and modern styling.<br>
 **version control & ci/cd:** Git,Github Action <br>
 **map:** Leaflet | © OpenStreetMap contributors <br>
-**Deploment:** Azure Cloud <br>
+**Deployment:** Azure Cloud <br>
 
 **Multiple Development Options:**<br>
 Work locally using your favorite IDE with Node.js and npm.
