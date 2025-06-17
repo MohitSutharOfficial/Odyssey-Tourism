@@ -1,6 +1,6 @@
 # Welcome to my college project
 
-**Busy Tourism Web App <a href="https://gray-hill-0950dc200.6.azurestaticapps.net/">Odyssey</a>**
+**Busy Tourism Web App <a href="https://witty-island-086886500.6.azurestaticapps.net/">BusinessOdyssey</a>**
 Busy Tourism Web App is a college project designed to provide real-time location directions to your selected destinations. It leverages modern web development technologies to deliver an efficient and user-friendly tourism experience. The application is accessible online and offers a seamless way to explore and navigate through various tourist destinations.
 
 **Features:**
@@ -23,7 +23,7 @@ Utilize GitHub Codespaces for an integrated development environment.
 
 # live demo
 
-<h3>Link:- <a href="https://gray-hill-0950dc200.6.azurestaticapps.net/">BusinessOdyssey</a></h3>
+<h3>Link:- <a href="https://witty-island-086886500.6.azurestaticapps.net/">BusinessOdyssey</a></h3>
 
 ## How can I edit this code?
 
