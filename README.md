@@ -1,6 +1,6 @@
 # Odyssey: Business Tourism Web App
 
-<h3>**Live Demo:** [Business Odyssey](https://gray-hill-0950dc200.6.azurestaticapps.net/)</h3>
+<h3>Live Demo: <a href="https://gray-hill-0950dc200.6.azurestaticapps.net">Business Odyssey</a></h3> 
 
 ## Overview
 
