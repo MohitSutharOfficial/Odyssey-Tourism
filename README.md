@@ -3,23 +3,25 @@
 **Busy Tourism Web App <a href="https://gray-hill-0950dc200.6.azurestaticapps.net/">Odyssy</a>**
 Busy Tourism Web App is a college project designed to provide real-time location directions to your selected destinations. It leverages modern web development technologies to deliver an efficient and user-friendly tourism experience. The application is accessible online and offers a seamless way to explore and navigate through various tourist destinations.
 
-<h2>Features:</h2><br>
+<h3>Features:</h3>
 **Real-Time Location Tracking:** Navigate and get directions to your selected places effortlessly.
 
-**Modern Tech Stack:**.
-**Vite:** A fast development server and build tool.
-**TypeScript:** Ensures robust and scalable code.
-**React:** Provides a dynamic and responsive user interface.
-**shadcn-ui:** For streamlined and consistent UI components.
-**Tailwind CSS:** Enables rapid and modern styling.
-**Multiple Development Options:**
+**Modern Tech Stack:**.<br>
+**Vite:** A fast development server and build tool.<br>
+**TypeScript:** Ensures robust and scalable code.<br>
+**React:** Provides a dynamic and responsive user interface.<br>
+**shadcn-ui:** For streamlined and consistent UI components.<br>
+**Tailwind CSS:** Enables rapid and modern styling.<br>
+**version control & ci/cd:** Git,Github Action <br>
+**Deploment:** Azure Cloud <br>
+**Multiple Development Options:**<br>
 Work locally using your favorite IDE with Node.js and npm.
 Edit files directly via GitHub.
 Utilize GitHub Codespaces for an integrated development environment.
 
 # live demo
 
-Odessey:- https://gray-hill-0950dc200.6.azurestaticapps.net/
+<h3>Link:-</h3> <a href="https://gray-hill-0950dc200.6.azurestaticapps.net/">BusinessOdyssey</a>
 
 ## How can I edit this code?
 
