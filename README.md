@@ -9,7 +9,7 @@ Odyssey is a modern tourism web application designed as a college project to hel
 ## Demo Video
 
 <div align="center">
-  <img src="https://github.com/MohitSutharOfficial/Odyssey-Tourism/blob/main/public/demo.gif" alt="Odyssey Tourism Demo" width="80%">
+  <img src="https://github.com/MohitSutharOfficial/Odyssey-Tourism/blob/main/public/demo.gif" alt="Odyssey Tourism Demo" width="100%">
 </div>
 
 ## Features
