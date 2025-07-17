@@ -1,12 +1,16 @@
 # Odyssey: Business Tourism Web App
 
-<h3>Live Demo: <a href="https://gray-hill-0950dc200.6.azurestaticapps.net">Business Odyssey</a></h3> 
+<h3>Live Demo: <a href="https://gray-hill-0950dc200.6.azurestaticapps.net">Business Odyssey</a></h3>
 
 ## Overview
 
 Odyssey is a modern tourism web application designed as a college project to help users explore, plan, and navigate tourist destinations with real-time directions and a beautiful, responsive interface. Built with a robust tech stack and deployed on Azure, Odyssey delivers a seamless and interactive experience for travelers.
 
----
+## Demo Video
+
+<div align="center">
+  <img src="https://github.com/MohitSutharOfficial/Odyssey-Tourism/blob/main/public/demo.gif" alt="Odyssey Tourism Demo" width="80%">
+</div>
 
 ## Features
 
