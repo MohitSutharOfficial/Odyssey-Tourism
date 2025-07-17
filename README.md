@@ -1,4 +1,7 @@
-# Odyssey: Business Tourism Web App
+<h1 align="center"> Odyssey: Business Tourism Web App </h1>
+<div align="center">
+  <img src="https://github.com/MohitSutharOfficial/Odyssey-Tourism/blob/main/public/header.png" alt="Odyssey Tourism " width="100%" height="300">
+</div>
 
 <h3>Live Demo: <a href="https://gray-hill-0950dc200.6.azurestaticapps.net">Business Odyssey</a></h3>
 
